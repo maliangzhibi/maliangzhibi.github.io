@@ -1,5 +1,5 @@
-title: 计算机视觉/目标跟踪/目标检测
+title: 计算机视觉(通用目标跟踪/检测，异常检测)
 description: 记录一些读的论文，看的书籍.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
