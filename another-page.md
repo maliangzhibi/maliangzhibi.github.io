@@ -1,11 +1,22 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: 建立
+description: 个人简历
 ---
 
-## Welcome to another page
+# 个人简历
 
-_yay_
+_姓名_：李绍明	_性别_：男	_政治面貌_：团员	_学历_：硕士研究生
 
-[back](./)
+_籍贯_: 四川巴中	_TEL(WeChat)_：18227591241	_E-mail_: lixy1905@163.com
+
+_地址_：江西省南昌市新建区丰和南大道696号	南昌航空大学前湖校区
+
+_实验室_：江西省图像处理与模式识别重点实验室/计算机视觉研究所
+
+_主要研究方向_：目标跟踪、检测
+
+
+
+# [back](./)
+
