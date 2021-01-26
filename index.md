@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[个人简历](./another-page.html).
+[个人简历](./another-page.md).
 
 There should be whitespace between paragraphs.
 
