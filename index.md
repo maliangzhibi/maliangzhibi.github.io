@@ -8,7 +8,7 @@ Obajtclayout: default
 
 # [目标跟踪].
 
-### [ATOM: Accurate Tracking by Overlap Maximization](/docs/Object-Tacking/ATOM.md)
+### [ATOM: Accurate Tracking by Overlap Maximization](/docs/ATOM.md).
 
 主要记新读的论文和一下想法.
 
