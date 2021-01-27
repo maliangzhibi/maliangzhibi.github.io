@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 我的记录篇
+title: 个人简历
 description: ...
 ---
 
